@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c76bab76-d65a-4741-a880-edd68f7302d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wooju.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
     </list>
@@ -29,8 +31,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wooju\PycharmProjects\inif32\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.index">
+    <configuration name="ebest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="inif32" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stocklab/agent" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stocklab/agent/ebest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="inif32" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,9 +82,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_agent_ebest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="inif32" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_agent_ebest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.index" />
+        <item itemvalue="Python.ebest" />
+        <item itemvalue="Python tests.Unittests in test_agent_ebest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -72,25 +118,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1033" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588332134038">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1033" y="502" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588332134038" />
     <state x="1099" y="613" key="Github.CreateGistDialog" timestamp="1588330335343">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1099" y="613" key="Github.CreateGistDialog/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588330335343" />
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1588330384840">
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1588336489924">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588330384840" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1588330384840">
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588336489924" />
+    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1588336489923">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588330384840" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1588330384839">
+    <state width="2539" height="401" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588336489923" />
+    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1588336489923">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588330384839" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1588330384840">
+    <state width="2539" height="401" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588336489923" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1588336489924">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588330384840" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588336489924" />
+    <state x="972" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1588334548432">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="524" key="com.intellij.ide.util.TipDialog/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588334548432" />
+    <state x="907" y="244" width="745" height="912" key="find.popup" timestamp="1588334215128">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="907" y="244" width="745" height="912" key="find.popup/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1588334215128" />
   </component>
 </project>
